@@ -1,0 +1,12 @@
+{
+  "List": [
+    {
+      "charactersId": "wan",
+      "name": "Wan",
+      "from": "Lion Turtle",
+      "gender": "Male",
+      "born": "9850 BG",
+      "desc": "The First Avatar"
+    }
+  ]
+}
