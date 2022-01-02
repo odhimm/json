@@ -3,7 +3,7 @@
     {
       "name": "Fire Bending",
       "desc": "Some quick example text to build on the card title and make up the bulk of the card's content.",
-      "specialTechniques": ["Lightning", "Fire Colored", "Combustionbending"],
+      "specialTechniques": ["Lightning", "Fire Colored", "Combustion bending"],
       "img": "https://i.pinimg.com/736x/aa/bd/bc/aabdbca6d01d7301e0059cd00c11d026.jpg",
       "element": "fire"
     },
@@ -17,14 +17,14 @@
     {
       "name": "Water Bending",
       "desc": "Some quick example text to build on the card title and make up the bulk of the card's content.",
-      "specialTechniques": ["Lightning", "Fire Colored", "Combustionbending"],
+      "specialTechniques": ["Bloodbending", "Healing", "Spiritbending"],
       "img": "https://i.pinimg.com/736x/be/cc/3c/becc3cc8cb0b8a997ac7434e14b61e6b.jpg",
       "element": "water"
     },
     {
       "name": "Earth Bending",
       "desc": "Some quick example text to build on the card title and make up the bulk of the card's content.",
-      "specialTechniques": ["Lightning", "Fire Colored", "Combustionbending"],
+      "specialTechniques": ["Lavabending", "Metalbending", "Seismic Sense"],
       "img": "https://i.pinimg.com/736x/c1/90/b4/c190b404dffa72e9f5532a3e1c561f59.jpg",
       "element": "earth"
     }
