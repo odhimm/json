@@ -25,6 +25,7 @@
       "gender": "male",
       "element": "earth",
       "img": [
+        "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75d183b8-73dd-42a9-92ad-2f5c0f4ac50f/deq9rz0-0ba6c3dc-6f46-4244-af27-2cbcd3505315.jpg/v1/fill/w_1024,h_1280,q_75,strp/avatar_salai_meditating_by_yondaimeminato4_deq9rz0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzc1ZDE4M2I4LTczZGQtNDJhOS05MmFkLTJmNWMwZjRhYzUwZlwvZGVxOXJ6MC0wYmE2YzNkYy02ZjQ2LTQyNDQtYWYyNy0yY2JjZDM1MDUzMTUuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.NzBfAGUd3LC4oAdUvvwprRBDTAp6tCO5G6uMa6G5ONQ",
         "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75d183b8-73dd-42a9-92ad-2f5c0f4ac50f/deq9rz0-0ba6c3dc-6f46-4244-af27-2cbcd3505315.jpg/v1/fill/w_1024,h_1280,q_75,strp/avatar_salai_meditating_by_yondaimeminato4_deq9rz0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzc1ZDE4M2I4LTczZGQtNDJhOS05MmFkLTJmNWMwZjRhYzUwZlwvZGVxOXJ6MC0wYmE2YzNkYy02ZjQ2LTQyNDQtYWYyNy0yY2JjZDM1MDUzMTUuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.NzBfAGUd3LC4oAdUvvwprRBDTAp6tCO5G6uMa6G5ONQ"
       ],
       "desc": ""
@@ -45,7 +46,7 @@
     {
       "characterId": "yangchen",
       "name": "yanchen",
-      "born": "unknown bg",
+      "born": "345 bg",
       "from": "air nomads",
       "location": "western air temple",
       "gender": "female",
@@ -58,7 +59,7 @@
     {
       "characterId": "kuruk",
       "name": "kuruk",
-      "born": "unknown bg",
+      "born": "345 bg - 312 bg",
       "from": "water tribes",
       "location": "northern water tribe",
       "gender": "male",
@@ -71,7 +72,7 @@
     {
       "characterId": "kyoshi",
       "name": "kyoshi",
-      "born": "unknown bg",
+      "born": "312 bg - 82 bg",
       "from": "earth kingdom",
       "location": "kyoshi island",
       "gender": "female",
@@ -84,7 +85,7 @@
     {
       "characterId": "roku",
       "name": "roku",
-      "born": "unknown bg",
+      "born": "82 bg - 12 bg",
       "from": "fire nation",
       "location": "fire nation capital",
       "gender": "male",
@@ -96,7 +97,7 @@
     },
     {
       "name": "aang",
-      "born": "unknown bg",
+      "born": "12 bg - 153 ag",
       "from": "air nomads",
       "location": "southern air temples",
       "gender": "male",
@@ -108,7 +109,7 @@
     },
     {
       "name": "korra",
-      "born": "unknown bg",
+      "born": "153 ag",
       "from": "water tribes",
       "location": "souther water tribe",
       "gender": "female",
