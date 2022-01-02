@@ -8,7 +8,12 @@
       "location": "lion turtle",
       "gender": "male",
       "element": "fire",
-      "img": "https://i.pinimg.com/originals/a5/88/77/a588778b34089ba3f96c1bc9feabc169.png",
+      "img": [
+        "https://i.pinimg.com/originals/a5/88/77/a588778b34089ba3f96c1bc9feabc169.png",
+        "https://lepasjenuh.com/wp-content/uploads/2020/08/avatar-wan-widescreen-wallpaper-1024x576.jpg",
+        "https://i0.wp.com/www.senpai.com.mx/wp-content/uploads/2020/11/Sin-titulo234.jpg?fit=1280%2C720&ssl=1",
+        "http://pm1.narvii.com/6454/e5d092428b034d62b4297d2717bce3dcd0210666_00.jpg"
+      ],
       "desc": "the first avatar"
     },
     {
