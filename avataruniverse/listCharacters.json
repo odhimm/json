@@ -1,11 +1,11 @@
 {
   "List": [
     {
-      "characterId": "wan",
-      "name": "wan",
-      "born": "9850 bg",
-      "from": "fire bender",
-      "location": "lion turtle",
+      "characterId": "zuko",
+      "name": "zuko",
+      "born": "83 bag",
+      "from": "fire nation",
+      "location": "fire nation capital",
       "gender": "male",
       "element": "fire",
       "img": [
@@ -14,48 +14,48 @@
         "https://i0.wp.com/www.senpai.com.mx/wp-content/uploads/2020/11/Sin-titulo234.jpg?fit=1280%2C720&ssl=1",
         "http://pm1.narvii.com/6454/e5d092428b034d62b4297d2717bce3dcd0210666_00.jpg"
       ],
-      "desc": "the first avatar"
+      "desc": "the fire lord"
     },
     {
-      "characterId": "salai",
-      "name": "salai",
-      "born": "758 bg - 612 bg",
-      "from": "earth kingdom",
-      "location": "earth kingdom",
-      "gender": "male",
-      "element": "earth",
+      "characterId": "azula",
+      "name": "azula",
+      "born": "85 ag",
+      "from": "fire nation",
+      "location": "fire nation capital",
+      "gender": "female",
+      "element": "fire",
       "img": [
         "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75d183b8-73dd-42a9-92ad-2f5c0f4ac50f/deq9rz0-0ba6c3dc-6f46-4244-af27-2cbcd3505315.jpg/v1/fill/w_1024,h_1280,q_75,strp/avatar_salai_meditating_by_yondaimeminato4_deq9rz0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzc1ZDE4M2I4LTczZGQtNDJhOS05MmFkLTJmNWMwZjRhYzUwZlwvZGVxOXJ6MC0wYmE2YzNkYy02ZjQ2LTQyNDQtYWYyNy0yY2JjZDM1MDUzMTUuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.NzBfAGUd3LC4oAdUvvwprRBDTAp6tCO5G6uMa6G5ONQ",
         "https://wallpapercave.com/wp/wp7947878.png",
         "https://preview.redd.it/d8izd8fr5dc51.jpg?auto=webp&s=aab1d9d5fdb0ff7561a2b865bc1469510e14ade7",
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXdWyKTYBeQ3U-NC6W9klKvCSHfW3y7UkqpiEwDi3Yd4iABOsM3K76zhWS8p33MLNVks&usqp=CAU"
       ],
-      "desc": "His clothes are like the military clothes of the earth kingdom, it's possible that he is a soldier by profession"
+      "desc": "sister of fire lord zuko"
     },
     {
-      "characterId": "szeto",
-      "name": "szeto",
-      "born": "612 bg - 500 bg",
-      "from": "fire naton",
-      "location": "",
+      "characterId": "sokka",
+      "name": "sokka",
+      "born": "84 ag",
+      "from": "water tribe",
+      "location": "southern water tribe",
       "gender": "male",
-      "element": "fire",
+      "element": "non-bender",
       "img": [
         "https://i.pinimg.com/originals/71/32/1d/71321da45591ddecbecd18d4049462b0.png",
         "https://i.pinimg.com/originals/ac/93/f3/ac93f349691a2d973b988e95f660d819.png",
         "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fecd9db2-df65-45c7-97aa-1c20d61b4f5a/deft257-c6657cae-2434-477f-8144-18ae4fdc62f2.png/v1/fill/w_1920,h_1080,q_80,strp/avatar_szeto_by_kkachi95_deft257-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2ZlY2Q5ZGIyLWRmNjUtNDVjNy05N2FhLTFjMjBkNjFiNGY1YVwvZGVmdDI1Ny1jNjY1N2NhZS0yNDM0LTQ3N2YtODE0NC0xOGFlNGZkYzYyZjIucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.hf_JsyFTx3DSk8749vs4Pa1nZaEv_3GlWjI3S9OCang",
         "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fecd9db2-df65-45c7-97aa-1c20d61b4f5a/ddv1s0g-f7508374-0d1e-4bcb-822c-58cbec3c52bf.png/v1/fill/w_1920,h_1081,q_80,strp/avatar_kyoshi__kuruk__yangchen__and_szeto_by_kkachi95_ddv1s0g-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MSIsInBhdGgiOiJcL2ZcL2ZlY2Q5ZGIyLWRmNjUtNDVjNy05N2FhLTFjMjBkNjFiNGY1YVwvZGR2MXMwZy1mNzUwODM3NC0wZDFlLTRiY2ItODIyYy01OGNiZWMzYzUyYmYucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Xr1p1_3QvDEikmKQp8App4xXA3jdIz-fVLUglPa6IvU"
       ],
-      "desc": "he is an avatar who becomes a bureaucrat in his own country, he is also the one who restores the state of the fire nation when experiencing great instability"
+      "desc": ""
     },
     {
-      "characterId": "yangchen",
-      "name": "yanchen",
-      "born": "500 bg - 345 bg",
-      "from": "air nomads",
-      "location": "western air temple",
+      "characterId": "katara",
+      "name": "katara",
+      "born": "85 ag",
+      "from": "water tribe",
+      "location": "southern water tribe",
       "gender": "female",
-      "element": "air",
+      "element": "water",
       "img": [
         "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75d183b8-73dd-42a9-92ad-2f5c0f4ac50f/ddvdd8w-94958072-0b5f-47bf-b605-4561edbfa2f6.jpg/v1/fill/w_1920,h_2522,q_75,strp/avatar_yangchen_meditating_by_yondaimeminato4_ddvdd8w-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1ZDE4M2I4LTczZGQtNDJhOS05MmFkLTJmNWMwZjRhYzUwZlwvZGR2ZGQ4dy05NDk1ODA3Mi0wYjVmLTQ3YmYtYjYwNS00NTYxZWRiZmEyZjYuanBnIiwiaGVpZ2h0IjoiPD0yNTIyIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvNzVkMTgzYjgtNzNkZC00MmE5LTkyYWQtMmY1YzBmNGFjNTBmXC95b25kYWltZW1pbmF0bzQtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0._uv3qEyxHFzFKyWi9ZQgttR4Gk8D81koxUlBPZxDZC0",
         "https://pbs.twimg.com/media/Eat-9iyXsAAdKBg.jpg",
@@ -65,13 +65,13 @@
       "desc": ""
     },
     {
-      "characterId": "kuruk",
-      "name": "kuruk",
-      "born": "345 bg - 312 bg",
-      "from": "water tribes",
-      "location": "northern water tribe",
+      "characterId": "toph",
+      "name": "toph beifong",
+      "born": "87 ag",
+      "from": "earth kingdom",
+      "location": "foggy swamp",
       "gender": "male",
-      "element": "water",
+      "element": "earth",
       "img": [
         "https://i.pinimg.com/originals/98/94/c5/9894c583f65eb0ad70bd24e5453b7061.jpg",
         "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fecd9db2-df65-45c7-97aa-1c20d61b4f5a/deft26p-c2b19fca-2b39-4fd5-b90c-8f7162722f13.png/v1/fill/w_1600,h_900,q_80,strp/avatar_kuruk_by_kkachi95_deft26p-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvZmVjZDlkYjItZGY2NS00NWM3LTk3YWEtMWMyMGQ2MWI0ZjVhXC9kZWZ0MjZwLWMyYjE5ZmNhLTJiMzktNGZkNS1iOTBjLThmNzE2MjcyMmYxMy5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.SEMMdCm_vB-0VweciW7NXy8OG0PmZO7g4k7BkdQXyM4",
@@ -81,12 +81,12 @@
       "desc": ""
     },
     {
-      "characterId": "kyoshi",
-      "name": "kyoshi",
-      "born": "312 bg - 82 bg",
-      "from": "earth kingdom",
-      "location": "kyoshi island",
-      "gender": "female",
+      "characterId": "bolin",
+      "name": "bolin",
+      "born": "154 ag",
+      "from": "republic united",
+      "location": "republic city",
+      "gender": "male",
       "element": "earth",
       "img": [
         "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75d183b8-73dd-42a9-92ad-2f5c0f4ac50f/dduzpy8-3f9c118c-84a8-4664-930f-4a44e16a7143.jpg/v1/fill/w_1920,h_2857,q_75,strp/avatar_kyoshi_meditating_by_yondaimeminato4_dduzpy8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1ZDE4M2I4LTczZGQtNDJhOS05MmFkLTJmNWMwZjRhYzUwZlwvZGR1enB5OC0zZjljMTE4Yy04NGE4LTQ2NjQtOTMwZi00YTQ0ZTE2YTcxNDMuanBnIiwiaGVpZ2h0IjoiPD0yODU3Iiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvNzVkMTgzYjgtNzNkZC00MmE5LTkyYWQtMmY1YzBmNGFjNTBmXC95b25kYWltZW1pbmF0bzQtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0._vEzoJezdT6KC_ClMc8st9yOf_uYWvZxpgdhyNMuS98",
@@ -97,13 +97,13 @@
       "desc": ""
     },
     {
-      "characterId": "roku",
-      "name": "roku",
-      "born": "82 bg - 12 bg",
-      "from": "fire nation",
-      "location": "fire nation capital",
+      "characterId": "mako",
+      "name": "mako",
+      "born": "152 ag",
+      "from": "republic united",
+      "location": "republic city",
       "gender": "male",
-      "element": "water",
+      "element": "fire",
       "img": [
         "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75d183b8-73dd-42a9-92ad-2f5c0f4ac50f/dduw9ef-9d82e7ee-7771-4eb5-8678-1d906523db12.jpg/v1/fill/w_1920,h_2833,q_75,strp/avatar_roku_meditating_by_yondaimeminato4_dduw9ef-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1ZDE4M2I4LTczZGQtNDJhOS05MmFkLTJmNWMwZjRhYzUwZlwvZGR1dzllZi05ZDgyZTdlZS03NzcxLTRlYjUtODY3OC0xZDkwNjUyM2RiMTIuanBnIiwiaGVpZ2h0IjoiPD0yODMzIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvNzVkMTgzYjgtNzNkZC00MmE5LTkyYWQtMmY1YzBmNGFjNTBmXC95b25kYWltZW1pbmF0bzQtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.oXOBxdfSDGplhvvIcJhhUunZaAVysvZuaS8_YiDU7ns",
         "https://qph.fs.quoracdn.net/main-qimg-38b68bf894f78de2214f2826ef2edd13",
@@ -113,12 +113,13 @@
       "desc": ""
     },
     {
-      "name": "aang",
-      "born": "12 bg - 153 ag",
-      "from": "air nomads",
-      "location": "southern air temples",
-      "gender": "male",
-      "element": "air",
+      "characterId": "asami",
+      "name": "asami sato",
+      "born": "152 ag",
+      "from": "republic united",
+      "location": "republic city",
+      "gender": "female",
+      "element": "non-bender",
       "img": [
         "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75d183b8-73dd-42a9-92ad-2f5c0f4ac50f/ddwz3q6-96dfb6db-a2f4-4e04-b9ec-444552ba73ad.jpg/v1/fill/w_1920,h_2509,q_75,strp/adult_aang_meditating_by_yondaimeminato4_ddwz3q6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1ZDE4M2I4LTczZGQtNDJhOS05MmFkLTJmNWMwZjRhYzUwZlwvZGR3ejNxNi05NmRmYjZkYi1hMmY0LTRlMDQtYjllYy00NDQ1NTJiYTczYWQuanBnIiwiaGVpZ2h0IjoiPD0yNTA5Iiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvNzVkMTgzYjgtNzNkZC00MmE5LTkyYWQtMmY1YzBmNGFjNTBmXC95b25kYWltZW1pbmF0bzQtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.c3FXm6EKa3LF9kh6kuYmBHSj87CaTB6SvYbYuQN4OIM",
         "https://www.greenscene.co.id/wp-content/uploads/2020/06/Avatar-7-696x497.jpg",
@@ -128,12 +129,13 @@
       "desc": ""
     },
     {
-      "name": "korra",
-      "born": "153 ag",
-      "from": "water tribes",
-      "location": "souther water tribe",
-      "gender": "female",
-      "element": "water",
+      "characterId": "tenzin",
+      "name": "tenzin",
+      "born": "119 ag",
+      "from": "republic united",
+      "location": "republic city",
+      "gender": "male",
+      "element": "air",
       "img": [
         "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75d183b8-73dd-42a9-92ad-2f5c0f4ac50f/depmadk-4a00498d-d1f8-43f9-a5ff-6dbfdfd76d03.jpg/v1/fill/w_1024,h_1235,q_75,strp/avatar_korra_meditating_by_yondaimeminato4_depmadk-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIzNSIsInBhdGgiOiJcL2ZcLzc1ZDE4M2I4LTczZGQtNDJhOS05MmFkLTJmNWMwZjRhYzUwZlwvZGVwbWFkay00YTAwNDk4ZC1kMWY4LTQzZjktYTVmZi02ZGJmZGZkNzZkMDMuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.tXS9IcrmqjUnfj1Dv35MxcGI2lxggSONabqzP9VA04w",
         "https://www.greenscene.co.id/wp-content/uploads/2020/09/Korra-696x497.jpg",
