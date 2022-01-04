@@ -5,6 +5,30 @@
       "location": "Northeastern Earth Kingdom",
       "img": ["https://pbs.twimg.com/media/EY6-s7PU8AE2pex.jpg"],
       "desc": "Early in its history, Ba Sing Se was a small subterranean city carved out of rocks by earthbenders. As the benders excavated further, they came across beautiful luminous crystals and began to mine them. "
+    },
+    {
+      "name": "fire nation capital",
+      "location": "Capital Island, central mainland Fire Nation",
+      "img": [
+        "https://preview.redd.it/mqr12b0n9vw41.jpg?auto=webp&s=cec08d9467c301760ad7d9a1b4eb34115b329f8e"
+      ],
+      "desc": "The Fire Nation Capital is one of the largest settlements in the world.[2] It has a distinct layout consisting of the Royal Plaza, a forum located directly past the First Lord's Harbor; Harbor City, a large district consiting of industrial areas and the homes of mostly lower-class people; and Royal Caldera City "
+    },
+    {
+      "name": "Southern Water Tribe capital city",
+      "location": "Western South Pole",
+      "img": [
+        "https://static3.srcdn.com/wordpress/wp-content/uploads/2020/08/How-Legend-of-Korras-World-Is-Different-From-The-Last-Airbender-Water-Tribe-Civil-War.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5"
+      ],
+      "desc": "Before the Hundred Year War, it was a city with a substantial population, built by skilled waterbenders, and surrounded by a wall. In course of the Hundred Year War, Fire Nation forces repeatedly attacked and raided the old city. After several decades of fighting, the old city was gradually destroyed and abandoned."
+    },
+    {
+      "name": "Southern Water Tribe capital city",
+      "location": "Western South Pole",
+      "img": [
+        "https://static3.srcdn.com/wordpress/wp-content/uploads/2020/08/How-Legend-of-Korras-World-Is-Different-From-The-Last-Airbender-Water-Tribe-Civil-War.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5"
+      ],
+      "desc": "Before the Hundred Year War, it was a city with a substantial population, built by skilled waterbenders, and surrounded by a wall. In course of the Hundred Year War, Fire Nation forces repeatedly attacked and raided the old city. After several decades of fighting, the old city was gradually destroyed and abandoned."
     }
   ]
 }
