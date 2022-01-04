@@ -1,6 +1,12 @@
 {
   "List": [
     {
+      "name": "Republic City",
+      "location": "Northeastern United Republic of Nations",
+      "img": ["https://i.redd.it/mnkj5cy6iyey.jpg"],
+      "desc": "Republic City is the capital city of the United Republic of Nations as well as one of the largest and most modern cities in the world,[5] with a population of millions.[6] Located on the shores of Yue Bay, it was founded by Fire Lord Zuko and Avatar Aang after the conclusion of the Hundred Year War as a haven for immigrants from all across the four nations, growing from its origins as Cranefish Town in the territory of the former Fire Nation colonies."
+    },
+    {
       "name": "ba sing se",
       "location": "Northeastern Earth Kingdom",
       "img": ["https://pbs.twimg.com/media/EY6-s7PU8AE2pex.jpg"],
@@ -12,15 +18,7 @@
       "img": [
         "https://preview.redd.it/mqr12b0n9vw41.jpg?auto=webp&s=cec08d9467c301760ad7d9a1b4eb34115b329f8e"
       ],
-      "desc": "The Fire Nation Capital is one of the largest settlements in the world.[2] It has a distinct layout consisting of the Royal Plaza, a forum located directly past the First Lord's Harbor; Harbor City, a large district consiting of industrial areas and the homes of mostly lower-class people; and Royal Caldera City "
-    },
-    {
-      "name": "Southern Water Tribe capital city",
-      "location": "Western South Pole",
-      "img": [
-        "https://static3.srcdn.com/wordpress/wp-content/uploads/2020/08/How-Legend-of-Korras-World-Is-Different-From-The-Last-Airbender-Water-Tribe-Civil-War.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5"
-      ],
-      "desc": "Before the Hundred Year War, it was a city with a substantial population, built by skilled waterbenders, and surrounded by a wall. In course of the Hundred Year War, Fire Nation forces repeatedly attacked and raided the old city. After several decades of fighting, the old city was gradually destroyed and abandoned."
+      "desc": "The Fire Nation Capital is one of the largest settlements in the world.[2] It has a distinct layout consisting of the Royal Plaza, a forum located directly past the First Lord's Harbor; Harbor City, a large district consiting of industrial areas and the homes of mostly lower-class people; and Royal Caldera City."
     },
     {
       "name": "Southern Water Tribe capital city",
