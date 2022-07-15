@@ -1,20 +1,20 @@
 {
     "List":[
         {
-            "name": "Dhimas Arista",
-            "description": "Student of Universitas Siber Asia",
-            "link1st": "https://dhimasarista.com",
-            "link1stTitle": "dhimasarista.com",
-            "link2nd": "https://instagram.com/dart2js",
-            "link2ndTitle": "dhimasarista"
+            "articleId": "dartProgramming",
+            "title": "Belajar Bahasa Pemgrograman: Dart",
+            "description": "Dart diperkenalkan pada 2011 dan diresmikan pada konferensi GOTO di Aarhus, Denmark, 10-12 Oktober 2012. Proyek ini didirikan oleh Lars Bak dan Kasper Lund. Dart 1.0 dirilis pada 14 November 2013.",
+            "writer": "Dhimas Arista",
+            "date": "08 July 2022",
+            "link": "/articles/dart-programming-language/"
         },
         {
-            "name": "Bayu Setiawan",
-            "description": "Student of Universitas Siber Asia",
-            "link1st": "#",
-            "link1stTitle": "",
-            "link2nd": "https://instagram.com/bayustwaaann_",
-            "link2ndTitle": "bayustwaaann_"
+            "articleId": "fotografi",
+            "title": "Belajar Fotografi: Teknik, Jenis & Alat",
+            "description": "",
+            "writer": "Bayu Setiawan",
+            "date": "",
+            "link": "/articles/photography/"
         }
     ]
 }
