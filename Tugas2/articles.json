@@ -6,15 +6,15 @@
             "description": "",
             "writer": "Dhimas Arista",
             "date": "",
-            "link": "/article/dart"
+            "link": "/articles/dart-programming-language/"
         },
         {
             "articleId": "fotografi",
-            "title": "",
+            "title": "Belajar Fotografi: Teknik, Jenis & Alat",
             "description": "",
             "writer": "Bayu Setiawan",
             "date": "",
-            "link": "/article/fotografi"
+            "link": "/articles/photography/"
         }
     ]
 }
