@@ -1,0 +1,18 @@
+{
+    "List":[
+        {
+            "articleId": "dartProgramming",
+            "title": "Belajar Bahasa Pemgrograman: Dart",
+            "description": "",
+            "writer": "Dhimas Arista",
+            "date": ""
+        },
+        {
+            "articleId": "fotografi",
+            "title": "",
+            "description": "",
+            "writer": "Bayu Setiawan",
+            "date": ""
+        }
+    ]
+}
