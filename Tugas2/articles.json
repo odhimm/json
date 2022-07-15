@@ -5,14 +5,16 @@
             "title": "Belajar Bahasa Pemgrograman: Dart",
             "description": "",
             "writer": "Dhimas Arista",
-            "date": ""
+            "date": "",
+            "link": "/article/dart"
         },
         {
             "articleId": "fotografi",
             "title": "",
             "description": "",
             "writer": "Bayu Setiawan",
-            "date": ""
+            "date": "",
+            "link": "/article/fotografi"
         }
     ]
 }

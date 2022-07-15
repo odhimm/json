@@ -7,6 +7,14 @@
             "link1stTitle": "dhimasarista.com",
             "link2nd": "https://instagram.com/dart2js",
             "link2ndTitle": "dhimasarista"
+        },
+        {
+            "name": "Bayu Setiawan",
+            "description": "Student of Universitas Siber Asia",
+            "link1st": "#",
+            "link1stTitle": "",
+            "link2nd": "https://instagram.com/bayustwaaann_",
+            "link2ndTitle": "bayustwaaann_"
         }
     ]
 }
