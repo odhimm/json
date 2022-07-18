@@ -1,20 +1,20 @@
 {
     "List":[
         {
+            "articleId": "fotografi",
+            "title": "Belajar Teknik Fotografi",
+            "description": "Fotografi tidak hanya sembarang jepret foto. Agar gambar yang ditangkap bisa memiliki makna, ada beberapa teknik dasar fotografi yang harus kamu kuasai.Perkembangan teknologi telah membawa kemajuan bagi dunia fotografi. Yang paling jelas adalah fotografer kini telah beralih dari kamera analog dan lebih menggunakan kamera digital.Dengan kamera digital, baik fotografer pemula maupun yang sudah profesional dapat menikmati pengaturan otomatis. Dalam arti mereka tak perlu lagi repot-repot mengatur kamera sesuai kebutuhan komposisi maupun angle.",
+            "writer": "Bayu Setiawan",
+            "date": "18 July 2022",
+            "link": "/articles/photography/"
+        },
+        {
             "articleId": "dartProgramming",
             "title": "Belajar Bahasa Pemgrograman: Dart",
             "description": "Dart diperkenalkan pada 2011 dan diresmikan pada konferensi GOTO di Aarhus, Denmark, 10-12 Oktober 2012. Proyek ini didirikan oleh Lars Bak dan Kasper Lund. Dart 1.0 dirilis pada 14 November 2013.",
             "writer": "Dhimas Arista",
             "date": "08 July 2022",
             "link": "/articles/dart-programming-language/"
-        },
-        {
-            "articleId": "fotografi",
-            "title": "Belajar Fotografi: Teknik, Jenis & Alat",
-            "description": "",
-            "writer": "Bayu Setiawan",
-            "date": "",
-            "link": "/articles/photography/"
         }
     ]
 }
